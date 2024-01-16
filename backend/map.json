@@ -1,0 +1,61 @@
+[
+  {
+    "website": "youtube",
+    "mappings": [
+      {
+        "function": "subscribe to premium",
+        "path": ["settings", "Get Youtube Premium"]
+      },
+      {
+        "function": "back to homepage",
+        "path": ["home"]
+      },
+      {
+        "function": "sign out",
+        "path": ["profile", "sign out"]
+      },
+      {
+        "function": "turn on notification",
+        "path": ["settings", "notifications"]
+      },
+      {
+        "function": "change language",
+        "path": ["profile", "language: english", "select"]
+      },
+      {
+        "function": "Delete Channel",
+        "path": ["settings", "Advanced settings", "delete channel"]
+      }
+    ]
+  },
+  {
+    "website": "washington government website",
+    "mappings": [
+      {
+        "function": "nursing home",
+        "path": ["seniors", "Find a nursing home"]
+      },
+      {
+        "function": "Volcanoes",
+        "path": ["visitors", "Volcanoes"]
+      },
+      {
+        "function": "University of Washington student Accessibility",
+        "path": ["people-with-disabilities", "University of WA Accessibility"]
+      },
+      {
+        "function": "Business Waste",
+        "path": ["Work", "Business Waste"]
+      }
+    ]
+  },
+  {
+    "website": "USCIS",
+    "mappings": [
+      {
+        "function": "Change of Address",
+        "path": ["tools", "Change of Address", "USCIS online account,"]
+      }
+    ]
+  }
+]
